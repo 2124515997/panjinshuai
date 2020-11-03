@@ -1,0 +1,38 @@
+/*左边列表字体的调整*/
+button{
+    color: black;
+       text-decoration: none;
+}
+
+button:hover{
+    color: #ff5a34;
+}
+
+.left{ 
+    cursor: text;
+
+}
+/*整体往中间移动*/
+.laoda{margin-left: 700px;
+}
+.left{font-size:50px;
+}
+
+/*去无序列表的原点*/
+ul{list-style-type:none;
+}
+/*向左浮动和清除  */
+div{float: left;
+}
+
+.right.two{clear: left;
+}
+
+.right.three{clear: left;
+}
+
+.fourth{clear: left;
+}
+
+.fifth{clear: left;
+}
